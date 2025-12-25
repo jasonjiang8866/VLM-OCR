@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+openai
+python-dotenv
+Pillow
+requests
+langgraph
+langchain-openai
+langchain-core
+torch
+transformers
+einops
+accelerate
+timm
+
